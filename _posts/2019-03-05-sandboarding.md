@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 滑沙中领悟的三件事
 date: 2019-03-05 09:00:00 +0800
 categories: game
